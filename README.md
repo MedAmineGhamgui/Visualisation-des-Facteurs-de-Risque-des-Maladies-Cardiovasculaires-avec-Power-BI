@@ -1,5 +1,6 @@
 # Présentation des Données des Facteurs de Maladies Cardiovasculaires avec Power BI
 **lien vers le projet** https://app.powerbi.com/viewr=eyJrIjoiNzI4OGMzZDgtYjk0ZS00NDIzLTg1ZTktOWY3MzJmNTVmNjE0IiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9
+
 **Description :**
 
 Ce projet vise à créer un tableau de bord interactif pour la présentation des données relatives aux facteurs de risque des maladies cardiovasculaires. Les facteurs incluent le tabagisme, l'âge, le sexe, l'activité physique, l'alcool, le cholestérol et le diabète. Le tableau de bord est développé en utilisant Power BI pour offrir une visualisation claire et dynamique des données.
