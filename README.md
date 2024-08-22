@@ -44,4 +44,7 @@ Ce projet vise à créer un tableau de bord interactif pour la présentation des
    - Utiliser les outils d'analyse de Power BI pour tirer des conclusions et générer des insights à partir des données.
   
 **Demo :**
-![Logo de l'entreprise](7.png)
+![image](8.png)
+![image](9.png)
+![image](10.png)
+
