@@ -44,7 +44,16 @@ Ce projet vise à créer un tableau de bord interactif pour la présentation des
    - Utiliser les outils d'analyse de Power BI pour tirer des conclusions et générer des insights à partir des données.
   
 **Demo :**
+1. **Page d'accueil**
+Cette page vous permet de naviguer entre différentes sections pour effectuer des analyses spécifiques sur les facteurs de risque des maladies cardiovasculaires et du diabète.
 ![image](8.png)
+
+2. **Analyse Cardiologique**
+Dans cette section, vous pouvez explorer les différents facteurs de risque associés aux maladies cardiovasculaires. Les visualisations et les analyses vous permettront de mieux comprendre les données et de prendre des décisions éclairées.
 ![image](9.png)
+
+3. **Analyse du Diabète**
+Cette section est dédiée à l'analyse des facteurs de risque du diabète. Vous trouverez des outils et des visualisations pour vous aider à comprendre les données et à évaluer les risques potentiels.
+
 ![image](10.png)
 
