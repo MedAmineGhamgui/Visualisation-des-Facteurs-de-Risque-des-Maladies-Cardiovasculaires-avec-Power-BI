@@ -60,3 +60,5 @@ Cette section est dédiée à l'analyse des facteurs de risque du diabète. Vous
 
 ![image](10.png)
 
+---
+Cette version est développée par Mohamed Amine Ghamgui.
